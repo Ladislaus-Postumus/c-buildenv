@@ -1,0 +1,7 @@
+{
+  "name": "suckless",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "workspacefodler": "/workspace"
+}
